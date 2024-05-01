@@ -2,10 +2,10 @@
 
 
 
-My Skills: 
+#### My Skills: 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,rust,bash,js,latex,nix,ocaml,postgres,py&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,rust,bash,js,nix,ocaml,postgres,py&perline=5" />
   </a>
 </p>
 <!--
