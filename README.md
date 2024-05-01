@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+
+My Skills: 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,rust,bash,js,latex,nix,ocaml,postgres,py&perline=5" />
+  </a>
+</p>
 <!--
 **Sileanth/Sileanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
