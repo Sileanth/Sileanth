@@ -10,4 +10,4 @@
 </p>
 
 #### Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Sileanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sileanth)](https://github.com/anuraghazra/github-readme-stats)
